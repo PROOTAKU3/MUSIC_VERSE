@@ -10,7 +10,7 @@ lyricsgenius
 motor
 pillow
 psutil
-py-tgcalls
+pytgcalls  # ✅ Updated from py-tgcalls
 pykeyboard
 pyrogram
 python-dotenv
